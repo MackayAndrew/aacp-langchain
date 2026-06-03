@@ -1,0 +1,5 @@
+cc_id,cc_name,approved_annual_gbp,ytd_spend_gbp,owner,gl_code
+CC-10,Engineering,420000,378000,Sarah Chen,GL-1010
+CC-20,Sales,140000,98000,Marcus Webb,GL-2020
+CC-30,Finance,160000,124000,David Park,GL-3030
+CC-40,HR,95000,71000,Linda Torres,GL-4040

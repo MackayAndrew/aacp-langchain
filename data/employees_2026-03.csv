@@ -1,0 +1,9 @@
+id,name,dept,cost_centre,base_salary_gbp,delta_gbp,pension_rate,status
+E001,Alice Smith,Engineering,CC-10,72000,0,0.05,active
+E002,Bob Jones,Sales,CC-20,58000,2500,0.05,active
+E003,Carol White,Finance,CC-30,65000,0,0.08,active
+E004,David Brown,Engineering,CC-10,85000,5000,0.05,active
+E005,Eve Davis,HR,CC-40,52000,0,0.05,active
+E006,Frank Miller,Engineering,CC-10,91000,3000,0.05,active
+E007,Grace Lee,Sales,CC-20,54000,1500,0.05,active
+E008,Henry Wilson,Finance,CC-30,61000,0,0.08,active

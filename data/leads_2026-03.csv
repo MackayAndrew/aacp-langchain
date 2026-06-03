@@ -1,0 +1,4 @@
+id,company,budget_gbp,timeline_months,need_score,authority_score,engaged
+L-001,Apex Systems,85000,3,8,9,true
+L-002,Delta Consulting,28000,9,4,8,false
+L-003,CoreTech Solutions,120000,2,9,10,true

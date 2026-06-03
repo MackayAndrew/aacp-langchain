@@ -1,0 +1,4 @@
+id,customer_id,subject,sentiment,priority,ltv_gbp,loyalty_years
+T-001,C-4421,Order not arrived,negative,high,8500,4
+T-002,C-1832,Wrong item delivered,negative,medium,2100,1
+T-003,C-9910,Billing error on invoice,negative,high,15000,7

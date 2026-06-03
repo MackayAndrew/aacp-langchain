@@ -1,0 +1,4 @@
+employee_id,name,username,dept,role,licences,systems
+E009,James Porter,j.porter,Engineering,Software Engineer,"M365,Slack,GitHub","email,vpn,sharepoint"
+E010,Priya Sharma,p.sharma,Sales,Account Executive,"M365,Slack,Salesforce","email,vpn,salesforce"
+E011,Tom Bradley,t.bradley,Finance,Finance Analyst,"M365,Slack,NetSuite","email,vpn,netsuite"

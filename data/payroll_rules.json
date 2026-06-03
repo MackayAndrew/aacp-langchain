@@ -1,0 +1,9 @@
+{
+  "version": "payroll_v2",
+  "period": "2026-03",
+  "paye_rate": 0.2,
+  "budget_warning_threshold": 0.85,
+  "budget_breach_threshold": 0.9,
+  "currency": "GBP",
+  "pay_date": "2026-03-28"
+}
